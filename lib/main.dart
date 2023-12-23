@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:currency_converter/currency_converter.dart';
 
+//projected completed
 void main() {
   runApp(const MyApp());
 }
